@@ -71,4 +71,3 @@ This project is released under the MIT License.
 
 Create and customize your own AI models effortlessly! 
 
-# ollama-model-create
